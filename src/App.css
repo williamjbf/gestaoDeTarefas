@@ -30,6 +30,7 @@ body{
 }
 .tarefaSingle p{
   cursor: pointer;
+  width: 80%;
 }
 .tarefaSingle span{
   cursor: pointer;
